@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <filter id="wc" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="4" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="14" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <filter id="wc2" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.025" numOctaves="3" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="10" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <linearGradient id="ink" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#448aff"/>
+      <stop offset="100%" style="stop-color:#002171"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 透明底 -->
+  <rect width="400" height="400" fill="none"/>
+
+  <!-- 水彩底层晕染 -->
+  <ellipse cx="200" cy="260" rx="250" ry="180" fill="#82b1ff" opacity="0.22" filter="url(#wc)"/>
+
+  <!-- 大笔触 - 群青 -->
+  <path d="M0 300 Q80 220 170 250 Q240 270 310 210 Q370 160 420 180 L420 340 Q340 320 260 340 Q180 360 100 330 Q40 310 0 350 Z"
+        fill="url(#ink)" opacity="0.7" filter="url(#wc)"/>
+
+  <!-- 中层笔触 -->
+  <path d="M10 280 Q100 210 190 235 Q270 255 350 195 Q400 155 430 175 L430 290 Q360 275 290 295 Q210 315 130 290 Q60 270 10 300 Z"
+        fill="#2962ff" opacity="0.55" filter="url(#wc2)"/>
+
+  <!-- 亮色飞白 -->
+  <path d="M60 270 Q150 215 250 238 Q330 255 400 210"
+        fill="none" stroke="#bbdefb" stroke-width="20" opacity="0.42" stroke-linecap="round" filter="url(#wc)"/>
+
+  <!-- 颜料流淌 -->
+  <path d="M140 320 Q135 355 142 385 Q148 410 140 430" fill="none" stroke="#2962ff" stroke-width="5" opacity="0.3" stroke-linecap="round" filter="url(#wc2)"/>
+  <path d="M250 300 Q248 340 255 375 Q260 405 253 430" fill="none" stroke="#448aff" stroke-width="4" opacity="0.28" stroke-linecap="round" filter="url(#wc2)"/>
+  <path d="M320 280 Q322 320 318 360" fill="none" stroke="#0d47a1" stroke-width="3" opacity="0.25" stroke-linecap="round" filter="url(#wc2)"/>
+</svg>

@@ -1,0 +1,18 @@
+﻿RHINE LAB · INTERNAL DATABASE
+FILE X-035 / 前作主页回顾
+PREVIOUS SITE
+
+科室：存档
+编目范围：2026 · 已替换
+相关人物：Vufa
+访问范围：REFERENCE AREA
+
+本库落成之前，登记对象曾驻于一座终端界面——前作主页的遗址仍留档可考：一个 CLI 世界里介绍自己的尝试，如今被更庞大的档案库取代，但未被遗忘。
+
+研究记录
+1. 形态：终端式交互 · 开源改作。
+2. 内含 2048 彩蛋与自定义技能表。
+3. 源码存于个人仓库：terminal-portfolio。
+
+来源：https://github.com/vufa
+本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。

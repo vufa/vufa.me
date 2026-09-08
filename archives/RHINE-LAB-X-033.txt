@@ -1,0 +1,18 @@
+﻿RHINE LAB · INTERNAL DATABASE
+FILE X-033 / GitHub 主页
+GITHUB PROFILE
+
+科室：链接
+编目范围：持续更新
+相关人物：Vufa
+访问范围：REFERENCE AREA
+
+指向外部世界的第一处坐标：登记对象在公共档案库中的驻地。仓库、提交与开源足迹尽在此处，是比本卷更新更频繁的旁档。
+
+研究记录
+1. 坐标：https://github.com/vufa。
+2. star、issue 与 pull request 皆受欢迎。
+3. 访客至此，可循代码而识其人。
+
+来源：https://github.com/vufa
+本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。

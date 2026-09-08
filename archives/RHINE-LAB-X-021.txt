@@ -1,0 +1,18 @@
+﻿RHINE LAB · INTERNAL DATABASE
+FILE X-021 / 水彩风 SVG 头像
+WATERCOLOR AVATAR
+
+科室：图形实验
+编目范围：2026 · 绘制
+相关人物：Vufa
+访问范围：REFERENCE AREA
+
+一件纯代码的视觉实验：档案主人试图以 SVG 模拟水彩的不可控。噪点扰动模拟纸面的浸润，渐变笔触模拟墨色的浓淡，最终得到一幅看似手绘、实为向量运算的头像。
+
+研究记录
+1. 分层笔触与墨色流淌构成水彩质感。
+2. 无位图依赖：任意尺寸皆清晰，可无限放大。
+3. 成果：/avatar_vufa2.svg，兼作档案图档与分享卡。
+
+来源：/avatar_vufa2.svg
+本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。

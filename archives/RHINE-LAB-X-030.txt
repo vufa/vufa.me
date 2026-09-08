@@ -1,0 +1,18 @@
+﻿RHINE LAB · INTERNAL DATABASE
+FILE X-030 / Git 与代码评审
+GIT & REVIEW
+
+科室：工具
+编目范围：持续更新
+相关人物：Vufa
+访问范围：REFERENCE AREA
+
+在档案主人眼中，Git 不只是版本工具，而是协作的时历：每一次提交都是一条可追溯的注记。他维护清晰的历史、可回滚的发布，并把评审当作一次对谈——代码只是谈话的引子，语义与边界才是正文。
+
+研究记录
+1. 小步提交，附清晰的提交信息。
+2. 评审关注语义正确与边界覆盖。
+3. rebase、cherry-pick 等历史整理手法运用娴熟。
+
+来源：https://vufa.me
+本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。

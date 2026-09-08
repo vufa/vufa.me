@@ -1,0 +1,18 @@
+﻿RHINE LAB · INTERNAL DATABASE
+FILE X-037 / MiSans 字体
+FONT CREDIT
+
+科室：致谢
+编目范围：小米字体
+相关人物：MiSans
+访问范围：REFERENCE AREA
+
+界面文字所使用的字体档案：小米 MiSans。其许可与版权说明随站点分发，署名与许可入口内置于设置页。
+
+研究记录
+1. 许可文件：public/fonts/MiSans-license.pdf。
+2. 版权说明：public/fonts/NOTICE.txt。
+3. 设置页内提供署名与许可入口。
+
+来源：/fonts/MiSans-license.pdf
+本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。

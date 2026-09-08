@@ -1,0 +1,18 @@
+﻿RHINE LAB · INTERNAL DATABASE
+FILE X-007 / 视觉资产
+AVATAR ASSET
+
+科室：水彩头像
+编目范围：2026 · 绘制
+相关人物：Vufa
+访问范围：REFERENCE AREA
+
+图档卷收录登记对象的标识性影像：一幅以 SVG 绘制的水彩头像。它以群青渐变的墨色、分层笔触与流动的噪点模拟颜料的浸润，透明底，未使用任何位图。
+
+研究记录
+1. 技法：feTurbulence 扰动 + 渐变墨色，模拟水彩扩散。
+2. 用途：社交分享卡与档案库的个人图档。
+3. 原件存放于站点根目录：/avatar_vufa2.svg。
+
+来源：/avatar_vufa2.svg
+本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。

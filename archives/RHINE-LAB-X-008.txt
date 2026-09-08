@@ -1,0 +1,18 @@
+﻿RHINE LAB · INTERNAL DATABASE
+FILE X-008 / 关于本站
+ABOUT THIS SITE
+
+科室：站点档案
+编目范围：2026 · 上线
+相关人物：Vufa
+访问范围：REFERENCE AREA
+
+设施卷：本档案库本身即为登记对象的作品之一。它以一座以透明档案盒构成的三维终端为界面，由 LBEILC 的开源项目 Rhine Lab UI（MIT）改造而来——那是对《明日方舟》特别映像中莱茵生命终端界面的复刻。
+
+研究记录
+1. 技术：TypeScript · Three.js · Vite，档案盒为运行时实时渲染。
+2. 界面遵循原作的档案美学；模型为重新制作的 GLB。
+3. 库内卷宗为个人资料，与任何既定世界观的人物无关。
+
+来源：https://github.com/LBEILC/RhineLabUI
+本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。

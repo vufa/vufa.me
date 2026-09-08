@@ -1,0 +1,18 @@
+﻿RHINE LAB · INTERNAL DATABASE
+FILE X-023 / 社区协作
+COMMUNITY WORK
+
+科室：开源协作
+编目范围：长期参与
+相关人物：Vufa / 社区
+访问范围：REFERENCE AREA
+
+档案主人长期往来于开源世界的集市：既守着自己的仓库接待来客，也到别人的工地提交补丁。两种视角让他明白——维护者与贡献者读到的，往往不是同一份 README。
+
+研究记录
+1. 维护热门项目：及时跟进 issue 与构建反馈。
+2. 描述问题习惯附最小复现，而非长篇现场描述。
+3. 向他人项目提交小而清晰的补丁，便于对方审阅。
+
+来源：https://github.com/vufa
+本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。

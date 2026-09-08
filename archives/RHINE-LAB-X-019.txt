@@ -1,0 +1,18 @@
+﻿RHINE LAB · INTERNAL DATABASE
+FILE X-019 / 本作 · Archive OS
+THIS SITE · ARCHIVE OS
+
+科室：三维档案站
+编目范围：2026 · 本站
+相关人物：Vufa
+访问范围：REFERENCE AREA
+
+设施卷之二：你此刻所在之处。档案主人以透明档案盒构成的三维终端为容器，改造自 LBEILC 的开源项目 Rhine Lab UI，把自己最在意的部分——经历、工作、项目与技能——整理成可以翻阅、抽取与拆解的档案。
+
+研究记录
+1. 主场景：Three.js 实时渲染的档案盒阵列。
+2. 交互：五类卷宗循环翻阅、抽取特写、360° 模型查看。
+3. 内容层与渲染层分离：库藏可更新，界面不必重铸。
+
+来源：https://vufa.me
+本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。

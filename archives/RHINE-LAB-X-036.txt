@@ -1,18 +1,18 @@
 ﻿RHINE LAB · INTERNAL DATABASE
-FILE X-036 / Rhine Lab UI（原作致谢）
-UPSTREAM CREDIT
+FILE X-036 / Rolling Number 组件
+COMPONENT LICENSE
 
 科室：致谢
-编目范围：MIT
-相关人物：LBEILC
+编目范围：开源组件
+相关人物：@kitlangton/rolling-number
 访问范围：REFERENCE AREA
 
-本库的界面与动效承自 LBEILC 的开源项目 Rhine Lab UI（MIT 许可）。档案主人改造了它的内容层，把它变成自己的主页；原作的工程与美学仍在此处可辨。
+档案编号的滚动数字动画由 @kitlangton/rolling-number 提供。它让编号的跳动有了机械的质感，许可文本随站点公开。
 
 研究记录
-1. 原作坐标：github.com/LBEILC/RhineLabUI。
-2. 本库在其基础上替换卷宗内容并部署为个人主页。
-3. 在此向作者与开源许可致谢——好作品值得被再次使用。
+1. 许可文本：/licenses/rolling-number.txt。
+2. 用于档案编号与计数器的滚动效果。
+3. 向作者的开源贡献致谢。
 
-来源：https://github.com/LBEILC/RhineLabUI
+来源：/licenses/rolling-number.txt
 本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。

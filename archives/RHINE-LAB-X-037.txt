@@ -1,18 +1,18 @@
 ﻿RHINE LAB · INTERNAL DATABASE
-FILE X-037 / MiSans 字体
-FONT CREDIT
+FILE X-037 / 主题灵感 · 莱茵生命
+INSPIRATION
 
-科室：致谢
-编目范围：小米字体
-相关人物：MiSans
+科室：致敬
+编目范围：粉丝向致敬
+相关人物：《明日方舟》
 访问范围：REFERENCE AREA
 
-界面文字所使用的字体档案：小米 MiSans。其许可与版权说明随站点分发，署名与许可入口内置于设置页。
+本库的视觉母题来自《明日方舟》特别映像「莱茵生命：访问」的非官方复刻作品。相关名称、标志与设定归各自权利人所有；此处仅以粉丝身份致敬，不作商业用途。
 
 研究记录
-1. 许可文件：public/fonts/MiSans-license.pdf。
-2. 版权说明：public/fonts/NOTICE.txt。
-3. 设置页内提供署名与许可入口。
+1. 参考映像：BV1rr4y1b7sz（B 站）。
+2. 档案库界面源自其终端美学。
+3. 设定与权利归属详见原作仓库说明。
 
-来源：/fonts/MiSans-license.pdf
+来源：https://www.bilibili.com/video/BV1rr4y1b7sz/
 本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。

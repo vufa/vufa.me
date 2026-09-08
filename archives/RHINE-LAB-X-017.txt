@@ -1,18 +1,18 @@
 ﻿RHINE LAB · INTERNAL DATABASE
-FILE X-017 / 围墙内的渡桥
-BRIDGE TO A WALLED MESSENGER
+FILE X-017 / 拓扑与车道推荐卷
+TOPOLOGY & LANE RECOMMENDATION
 
-科室：开源项目
-编目范围：长期维护
-相关人物：Vufa / 社区
+科室：车道拓扑
+编目范围：在岗项目
+相关人物：Vufa
 访问范围：REFERENCE AREA
 
-在开源世界的一隅，档案主人以一份长久维护的方案为人所知：为一座被围墙围起的通讯之城架设渡桥，让城内的讯息能在另一座以自由与简洁著称的系统上重新亮起。它解决的并非高深问题，而是许多人日复一日的具体不便——也因此获得了远超预期的回响。
+以道路为单位整理图层、拆分双向路、构筑车道级拓扑；在长实线之前给出提前变道建议，并在路口无箭头、数据缺失等苛刻场景里守住不出错的下限。
 
 研究记录
-1. 据点的真实坐标保留在 github.com/vufa/deepin-wine-wechat-arch。
-2. 依赖、字形与多版本共存等细务被一一处置。
-3. 维护者的日常：跟进 issue、回应各方反馈——另一种外勤。
+1. 车道级拓扑：把路网拆到能回答「该走哪条车道」。
+2. 长实线提前推荐：给足变道距离，而非临到头才提醒。
+3. 路口无箭头与极端环境被当作头等场景处理。
 
-来源：https://github.com/vufa/deepin-wine-wechat-arch
+来源：https://vufa.me
 本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。

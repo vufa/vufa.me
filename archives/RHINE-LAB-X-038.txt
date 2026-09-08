@@ -1,18 +1,18 @@
 ﻿RHINE LAB · INTERNAL DATABASE
-FILE X-038 / Rolling Number 组件
-COMPONENT LICENSE
+FILE X-038 / 本站首页
+THIS PAGE
 
-科室：致谢
-编目范围：开源组件
-相关人物：@kitlangton/rolling-number
+科室：入口
+编目范围：2026 · 上线
+相关人物：Vufa
 访问范围：REFERENCE AREA
 
-档案编号的滚动数字动画由 @kitlangton/rolling-number 提供。它让编号的跳动有了机械的质感，许可文本随站点公开。
+档案卷至末尾，也是入口本身：https://vufa.me。感谢你翻阅至此——这座库藏的维护者，希望你至少带走了某一页。
 
 研究记录
-1. 许可文本：/licenses/rolling-number.txt。
-2. 用于档案编号与计数器的滚动效果。
-3. 向作者的开源贡献致谢。
+1. 欢迎收藏本站，便于再次查阅。
+2. 建议以键盘操作：↑ ↓ ← → 翻阅，ENTER 读取。
+3. 入口：https://vufa.me
 
-来源：/licenses/rolling-number.txt
+来源：https://vufa.me
 本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。

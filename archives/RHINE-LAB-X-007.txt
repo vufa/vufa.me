@@ -1,18 +1,18 @@
 ﻿RHINE LAB · INTERNAL DATABASE
-FILE X-007 / 视觉资产
-AVATAR ASSET
+FILE X-007 / 关于本站
+ABOUT THIS SITE
 
-科室：水彩头像
-编目范围：2026 · 绘制
+科室：站点档案
+编目范围：2026 · 上线
 相关人物：Vufa
 访问范围：REFERENCE AREA
 
-图档卷收录登记对象的标识性影像：一幅以 SVG 绘制的水彩头像。它以群青渐变的墨色、分层笔触与流动的噪点模拟颜料的浸润，透明底，未使用任何位图。
+设施卷：本档案库本身即为登记对象的作品之一。它以一座以透明档案盒构成的三维终端为界面，由 LBEILC 的开源项目 Rhine Lab UI（MIT）改造而来——那是对《明日方舟》特别映像中莱茵生命终端界面的复刻。
 
 研究记录
-1. 技法：feTurbulence 扰动 + 渐变墨色，模拟水彩扩散。
-2. 用途：社交分享卡与档案库的个人图档。
-3. 原件存放于站点根目录：/avatar_vufa2.svg。
+1. 技术：TypeScript · Three.js · Vite，档案盒为运行时实时渲染。
+2. 界面遵循原作的档案美学；模型为重新制作的 GLB。
+3. 库内卷宗为个人资料，与任何既定世界观的人物无关。
 
-来源：/avatar_vufa2.svg
+来源：https://github.com/LBEILC/RhineLabUI
 本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。

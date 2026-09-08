@@ -1,18 +1,18 @@
 ﻿RHINE LAB · INTERNAL DATABASE
-FILE X-031 / 图算法与空间数据
-GRAPHS & SPATIAL
+FILE X-031 / GitHub 主页
+GITHUB PROFILE
 
-科室：算法方向
+科室：链接
 编目范围：持续更新
 相关人物：Vufa
 访问范围：REFERENCE AREA
 
-这是职业记录背后真正的底色：图与空间。路网是图，导航是图上的行走；车道是空间，位置是空间里的坐标。档案主人长年与节点、边、邻接与索引打交道，把这类结构化的问题写成高效的代码。
+指向外部世界的第一处坐标：登记对象在公共档案库中的驻地。仓库、提交与开源足迹尽在此处，是比本卷更新更频繁的旁档。
 
 研究记录
-1. 拓扑建模与前后继关系的推导经验丰富。
-2. 空间索引与几何计算的工程化实现。
-3. 图与空间问题最终落地为克制的 C++ 代码。
+1. 坐标：https://github.com/vufa。
+2. star、issue 与 pull request 皆受欢迎。
+3. 访客至此，可循代码而识其人。
 
-来源：https://vufa.me
+来源：https://github.com/vufa
 本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。

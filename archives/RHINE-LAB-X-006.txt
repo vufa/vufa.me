@@ -14,5 +14,5 @@ GITHUB IDENTITY
 2. 据点：deepin-wine-wechat-arch。
 3. star、issue、PR 皆属往来。
 
-来源：https://github.com/vufa
-本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。
+设定参考：https://github.com/vufa
+本文为基于公开设定的档案式改写，非游戏原文。

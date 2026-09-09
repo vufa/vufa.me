@@ -1,0 +1,18 @@
+﻿RHINE LAB · INTERNAL DATABASE
+FILE X-038 / 致谢 · 字体与组件
+CREDITS · TYPE & WIDGETS
+
+科室：致谢
+编目范围：2026 · 本站
+相关人物：MiSans / @kitlangton
+访问范围：REFERENCE AREA
+
+字是档案的皮肤，数字是档案的心跳：界面字体为小米 MiSans，编号滚动来自 @kitlangton/rolling-number。许可与版权说明随站点分发，署名入口置于设置页——用着好东西，就该把出处交代清楚。
+
+研究记录
+1. MiSans 许可：/fonts/MiSans-license.pdf。
+2. Rolling Number：/licenses/rolling-number.txt。
+3. 设置页内置署名入口。
+
+设定参考：https://vufa.me/fonts/MiSans-license.pdf
+本文为基于公开设定的档案式改写，非游戏原文。

@@ -1,0 +1,18 @@
+﻿RHINE LAB · INTERNAL DATABASE
+FILE X-037 / 致谢 · 原作与灵感
+CREDITS · ORIGIN & INSPIRATION
+
+科室：致谢
+编目范围：2026 · 本站
+相关人物：LBEILC / 鹰角网络
+访问范围：REFERENCE AREA
+
+本库的工程与美学各有出处：界面承自 LBEILC 的开源项目 Rhine Lab UI（MIT）——我把内容换成了自己的，把好看留了下来；视觉母题则致敬《明日方舟》映像「莱茵生命：访问」。名称、标志与设定归各自权利人，此处只是粉丝的一点敬意与感谢。
+
+研究记录
+1. 原作：github.com/LBEILC/RhineLabUI（MIT）。
+2. 参考映像：BV1rr4y1b7sz，非商用致敬。
+3. 好作品值得被再次使用——感谢。
+
+设定参考：https://github.com/LBEILC/RhineLabUI
+本文为基于公开设定的档案式改写，非游戏原文。

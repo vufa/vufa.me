@@ -14,5 +14,5 @@ MASTER PROFILE
 2. 要务二：识途（铁骑认路）。
 3. 要务三：驭械（随从自走）。
 
-来源：https://vufa.me
-本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。
+设定参考：https://vufa.me
+本文为基于公开设定的档案式改写，非游戏原文。

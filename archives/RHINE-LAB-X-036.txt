@@ -1,0 +1,18 @@
+﻿RHINE LAB · INTERNAL DATABASE
+FILE X-036 / 前作 · 终端主页
+FORMER SITE · TERMINAL HOME
+
+科室：链接
+编目范围：2026 · 已替换
+相关人物：Vufa
+访问范围：REFERENCE AREA
+
+在档案库落成之前，登记对象曾驻于一座终端式主页；它如今作为前作留档，部分设计理念沿用至今。
+
+研究记录
+1. 前作：终端命令行式主页。
+2. 已被本库取代。
+3. 代码见个人 GitHub 仓库。
+
+设定参考：https://github.com/vufa
+本文为基于公开设定的档案式改写，非游戏原文。

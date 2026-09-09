@@ -1,0 +1,18 @@
+﻿RHINE LAB · INTERNAL DATABASE
+FILE X-035 / 据点 · 通讯渡桥
+OUTPOST · WALLED MESSENGER
+
+科室：链接
+编目范围：长期维护
+相关人物：Vufa
+访问范围：REFERENCE AREA
+
+一座长期照看的据点：为被围墙围起的通讯之城架桥。仓库坐标：github.com/vufa/deepin-wine-wechat-arch。
+
+研究记录
+1. 坐标见本卷链接。
+2. 长期维护，issue 常清。
+3. 依赖与多版本共存为日常。
+
+设定参考：https://github.com/vufa/deepin-wine-wechat-arch
+本文为基于公开设定的档案式改写，非游戏原文。

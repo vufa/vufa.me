@@ -1,18 +1,18 @@
 ﻿RHINE LAB · INTERNAL DATABASE
-FILE X-027 / GitHub 主页
-GITHUB PROFILE
+FILE X-027 / 以终端为家
+HOME IS THE TERMINAL
 
-科室：链接
+科室：技艺
 编目范围：持续更新
 相关人物：Vufa
 访问范围：REFERENCE AREA
 
-第一处坐标：登记对象在公共档案库中的驻地。仓库、提交与开源足迹尽在此，是比本卷更频繁更新的旁档。
+工作台立于自由而克制的系统之上。终端是主街，管道与脚本是马车；多数排障与自动化发生于此——自由需要被理解，才会安静。
 
 研究记录
-1. 坐标：github.com/vufa。
-2. star、issue、PR 皆欢迎。
-3. 可循代码而识其人。
+1. 命令行与脚本为日常。
+2. 进程、网络、文件系统皆熟。
+3. 知其然，亦知其所以然。
 
-来源：https://github.com/vufa
-本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。
+设定参考：https://vufa.me
+本文为基于公开设定的档案式改写，非游戏原文。

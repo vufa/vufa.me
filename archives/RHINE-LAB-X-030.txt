@@ -1,18 +1,18 @@
 ﻿RHINE LAB · INTERNAL DATABASE
-FILE X-030 / 图算法与空间数据
-GRAPHS & SPATIAL
+FILE X-030 / 致谢 · 字体与组件
+CREDITS · TYPE & WIDGETS
 
-科室：算法方向
-编目范围：持续更新
-相关人物：Vufa
+科室：致谢
+编目范围：2026 · 本站
+相关人物：MiSans / @kitlangton
 访问范围：REFERENCE AREA
 
-这是职业记录背后真正的底色：图与空间。路网是图，导航是图上的行走；车道是空间，位置是空间里的坐标。档案主人长年与节点、边、邻接与索引打交道，把这类结构化的问题写成高效的代码。
+字是档案的皮肤，数字是档案的心跳：界面字体为小米 MiSans，编号滚动来自 @kitlangton/rolling-number。许可与版权说明随站点分发，署名入口置于设置页——用着好东西，就该把出处交代清楚。
 
 研究记录
-1. 拓扑建模与前后继关系的推导经验丰富。
-2. 空间索引与几何计算的工程化实现。
-3. 图与空间问题最终落地为克制的 C++ 代码。
+1. MiSans 许可：/fonts/MiSans-license.pdf。
+2. Rolling Number：/licenses/rolling-number.txt。
+3. 设置页内置署名入口。
 
-来源：https://vufa.me
+来源：/fonts/MiSans-license.pdf
 本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。

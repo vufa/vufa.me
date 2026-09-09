@@ -7,12 +7,12 @@ GITHUB IDENTITY
 相关人物：Vufa
 访问范围：REFERENCE AREA
 
-登记对象在互联网的公共档案库里以 vufa 为署名活动。其代码、提交记录与维护的项目散布在若干仓库之间，构成比本卷更细、更新更频繁的旁档。
+登记对象以 vufa 署名活动于公共档案库。代码、提交与据点构成更细更快的旁档；本卷只作指向，不作评述。
 
 研究记录
-1. 公共署名：github.com/vufa。
-2. 长时间维护的据点之一为 deepin-wine-wechat-arch。
-3. 造访者被欢迎：star、issue 与 pull request 皆属正常往来。
+1. 署名：github.com/vufa。
+2. 据点：deepin-wine-wechat-arch。
+3. star、issue、PR 皆属往来。
 
 来源：https://github.com/vufa
 本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。

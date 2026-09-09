@@ -1,18 +1,18 @@
 ﻿RHINE LAB · INTERNAL DATABASE
-FILE X-027 / Linux 与命令行
-LINUX & SHELL
+FILE X-027 / GitHub 主页
+GITHUB PROFILE
 
-科室：系统
+科室：链接
 编目范围：持续更新
 相关人物：Vufa
 访问范围：REFERENCE AREA
 
-档案主人的工作台建立在 Linux 之上：终端是他的主街，管道与脚本是街上的马车。多数排障与自动化发生在这里，他也熟悉那些以自由与克制著称的发行版的脾气——自由需要被理解，才会安静下来。
+第一处坐标：登记对象在公共档案库中的驻地。仓库、提交与开源足迹尽在此，是比本卷更频繁更新的旁档。
 
 研究记录
-1. 主力开发系统：Linux 及其自由发行版。
-2. 进程、网络与文件系统的排障经验扎实。
-3. 习惯用 shell 组合管道解决临时之需。
+1. 坐标：github.com/vufa。
+2. star、issue、PR 皆欢迎。
+3. 可循代码而识其人。
 
-来源：https://vufa.me
+来源：https://github.com/vufa
 本档案由 RHINE LAB · ANALYSIS OS 导出，内容为站点个人档案。

@@ -1,6 +1,6 @@
 {
-  "version": "7c2b31a25dacabef",
-  "bytes": 27736728,
+  "version": "2ec87465e962edda",
+  "bytes": 34645737,
   "files": [
     "archives/RHINE-LAB-X-001.txt",
     "archives/RHINE-LAB-X-002.txt",
@@ -42,7 +42,9 @@
     "archives/RHINE-LAB-X-038.txt",
     "archives/RHINE-LAB-X-039.txt",
     "archives/RHINE-LAB-X-040.txt",
-    "assets/index-BYZ0sLxM.js",
+    "assets/archive-assembly.d411170676f55a32.glb",
+    "assets/archive-cassette.dda42b9b3b471d11.glb",
+    "assets/index-B4bnfuDX.js",
     "assets/index-lN1y30AF.css",
     "audio/atmosphere.ogg",
     "audio/motif.ogg",

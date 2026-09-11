@@ -1,6 +1,6 @@
 {
-  "version": "2ec87465e962edda",
-  "bytes": 34645737,
+  "version": "a1818b2eb17507a9",
+  "bytes": 34724029,
   "files": [
     "archives/RHINE-LAB-X-001.txt",
     "archives/RHINE-LAB-X-002.txt",
@@ -44,8 +44,9 @@
     "archives/RHINE-LAB-X-040.txt",
     "assets/archive-assembly.d411170676f55a32.glb",
     "assets/archive-cassette.dda42b9b3b471d11.glb",
-    "assets/index-B4bnfuDX.js",
-    "assets/index-lN1y30AF.css",
+    "assets/boot-lettering-notice.txt",
+    "assets/index-8hQ6QWXX.css",
+    "assets/index-BfOlkz9V.js",
     "audio/atmosphere.ogg",
     "audio/motif.ogg",
     "audio/pulse.ogg",
